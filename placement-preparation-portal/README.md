@@ -211,6 +211,6 @@ These features are possible future extensions and are **not implemented** in the
 
 ## Author
 
-**Student Portfolio Project**
+**Divyanshu Raj**
 
 Built to demonstrate practical React fundamentals, JavaScript state management, timed quiz logic, responsive UI development, and browser-side data persistence.
